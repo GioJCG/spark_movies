@@ -1,0 +1,4 @@
+kafka-python
+pymongo
+psycopg2_binary
+pandas
